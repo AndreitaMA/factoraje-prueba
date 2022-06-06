@@ -1,0 +1,4 @@
+[submodule "Jarsa/mexico"]
+	path = Jarsa/mexico
+	url = git@github.com:Jarsa/mexico.git
+	branch = 15.0
